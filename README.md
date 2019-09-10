@@ -38,3 +38,17 @@ https://www.cnblogs.com/yunqishequ/p/9968123.html
 
 ## Flutter Video Player | video_player Example
 > https://androidmonks.com/flutter-video-player/
+
+## examples
+>1. https://androidmonks.com/google-maps-flutter/
+>2. https://flutterbyexample.com/user-feedback-toasts-snackbars
+
+
+
+## 播放器
+>1. https://www.youtube.com/watch?v=7IG5kRFIMZw
+
+
+
+## 论坛
+>1. https://flutterforum.co/
