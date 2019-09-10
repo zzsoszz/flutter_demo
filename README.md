@@ -1,6 +1,6 @@
 ## 环境变量
-> export PUB_HOSTED_URL=https://pub.flutter-io.cn
-> export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+>1. export PUB_HOSTED_URL=https://pub.flutter-io.cn
+>2. export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
 ## flutter_plugin_demo2
 > https://medium.com/flutter-community/flutter-platformview-how-to-create-flutter-widgets-from-native-views-366e378115b6
@@ -28,13 +28,13 @@ https://www.cnblogs.com/yunqishequ/p/9968123.html
 
 
 ##【慕课网】Flutter 从入门到进阶 实战携程网 App
-https://itlearner.me/youtube/js/#%E3%80%90%E6%85%95%E8%AF%BE%E7%BD%91%E3%80%91Flutter%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6-%E5%AE%9E%E6%88%98%E6%90%BA%E7%A8%8B%E7%BD%91App
+>  https://itlearner.me/youtube/js/#%E3%80%90%E6%85%95%E8%AF%BE%E7%BD%91%E3%80%91Flutter%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6-%E5%AE%9E%E6%88%98%E6%90%BA%E7%A8%8B%E7%BD%91App
 
 ## Flutter’s Rendering Engine: A Tutorial — Part 1
-https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d
+> https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d
 
 ## Flutter's Rendering Pipeline
-https://www.youtube.com/watch?v=UUfXWzp0-DU
+> https://www.youtube.com/watch?v=UUfXWzp0-DU
 
 ## Flutter Video Player | video_player Example
-https://androidmonks.com/flutter-video-player/
+> https://androidmonks.com/flutter-video-player/
