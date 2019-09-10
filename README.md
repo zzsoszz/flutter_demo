@@ -17,10 +17,11 @@
 
 
 ## 使用Native(以Android为例)播放器构建Flutter播放插件
-https://juejin.im/post/5b7ba79a6fb9a01a1826776b
+> https://juejin.im/post/5b7ba79a6fb9a01a1826776b
+
 
 ## 在Flutter中嵌入Native组件的正确姿势是...
-https://www.cnblogs.com/yunqishequ/p/9968123.html
+> https://www.cnblogs.com/yunqishequ/p/9968123.html
 
 
 ## 将android原生应用创建为flutter插件
@@ -48,6 +49,9 @@ https://www.cnblogs.com/yunqishequ/p/9968123.html
 ## 播放器
 >1. https://www.youtube.com/watch?v=7IG5kRFIMZw
 
+
+## 使用Native(以Android为例)播放器构建Flutter播放插件
+https://juejin.im/post/5b7ba79a6fb9a01a1826776b
 
 
 ## 论坛
