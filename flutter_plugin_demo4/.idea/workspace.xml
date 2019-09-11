@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4eb7c14-4325-4735-84e4-82b29487732f" name="Default Changelist" comment="" />
+    <list default="true" id="a4eb7c14-4325-4735-84e4-82b29487732f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../android_demo3/MyApplication/flutter_plugin4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../android_demo3/MyApplication/flutter_plugin4/build.gradle" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
